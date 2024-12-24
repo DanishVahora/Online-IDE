@@ -62,9 +62,8 @@ This project is an **online code editor and compiler** inspired by [Programiz](h
 ### Preview
 
 -Go to the link : 
-   ```bash
       https://gleeful-squirrel-296a65.netlify.app/
-   ```
+   
 
 ### Screen Shot 
 ![IDE Interface](compiler-app/src/assets/IDE.png)
