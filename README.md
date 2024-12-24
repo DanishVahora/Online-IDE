@@ -50,7 +50,7 @@ This project is an **online code editor and compiler** inspired by [Programiz](h
    npm run dev
    ```
 4. Open http://localhost: in your browser to view the application.
-   ```bash
+   
    
 ### Backend Setup
 
@@ -58,6 +58,13 @@ This project is an **online code editor and compiler** inspired by [Programiz](h
   ```bash
     https://3t3vy3oy01.execute-api.us-west-2.amazonaws.com/danish
   ```
+
+### Preview
+
+-Go to the link : 
+   ```bash
+      https://gleeful-squirrel-296a65.netlify.app/
+   ```
 
 ### Screen Shot 
 ![IDE Interface](compiler-app/src/assets/IDE.png)
